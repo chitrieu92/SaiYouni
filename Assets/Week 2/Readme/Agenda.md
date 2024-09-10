@@ -4,7 +4,11 @@
 
 ## 2. Kể Tên 5 Loại Giải Thuật Sắp Xếp Khác Nhau
 
+- Đọc Sort.md
+
 ## 3. Dùng Một Giải Thuật Sắp Xếp Khác Để Thay Cho Giải Thuật Trong Buổi Học
+
+-Đọc Sort.md
 
 ## 4. Thực Hiện Random Cho Current HP
 
